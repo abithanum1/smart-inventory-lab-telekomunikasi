@@ -36,7 +36,11 @@ Smart Inventory adalah sistem yang saya buat sebagai Tugas Akhir untuk membantu 
 
 ## Hasil
 
-Tulis 2-3 kalimat hasil pengujian dari laporan TA kamu.
+## Hasil
+
+Sistem sudah berhasil diuji dan berjalan sesuai fungsinya. Alat yang dipindai lewat QR code langsung terbaca oleh ESP32, lalu LED dan buzzer memberi tanda apakah proses berhasil. Data peminjaman tercatat otomatis dan bisa dilihat dari aplikasi mobile maupun dashboard web, dengan tampilan yang menyesuaikan peran masing-masing pengguna (mahasiswa, dosen, atau admin lab).
+
+Dengan sistem ini, pencatatan peminjaman tidak lagi bergantung pada Excel dan lebih mudah ditelusuri oleh admin laboratorium.
 
 ## Informasi Proyek
 
